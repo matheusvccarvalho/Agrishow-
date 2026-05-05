@@ -1,4 +1,4 @@
-Aqui está o **README pronto**, limpo e profissional, só copiar e colar no seu repositório 👇
+
 
 ---
 
